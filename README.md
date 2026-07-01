@@ -296,7 +296,7 @@ No installation required.
 
 ---
 
-# 💜 Developer's Touch
+# 💜 A Word (probably a para) from the Developer
 
 Hello! 👋
 
@@ -310,11 +310,17 @@ Every month I'd confidently tell myself,
 
 > "This month I'll finally manage my money properly."
 
-A few food deliveries later...
+> "Probably I will buy a PS5 with saved money"
 
-A random Amazon purchase...
+> "Probably I will buy a PS5 with my saved money"
 
-One gadget I definitely didn't need...
+Suddenly
+ 
+Everything at Amazon looks  useful and must buy...
+
+My bike starts making weird sounds...
+
+Will buy that one gadget I definitely didn't need...
 
 ...and suddenly I'd be staring at my bank balance wondering where everything disappeared.
 
